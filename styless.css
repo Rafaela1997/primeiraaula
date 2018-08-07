@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    background-color: rgb(172, 125, 216);
+    font-family: Dancing Script', cursive;
+
+}
+a{
+    color: black;
+    display: -webkit-flex;
+    text-decoration: none;
+    margin: 0 15%;
+}
+.sites{
+    display: flex;
+
+}
+h1,h2{
+    color: rgb(80, 4, 42);
+    text-align: center;
+    font-weight: 700;
+}    
+header{
+    display: flex;
+    align-items:right;
+    height: 100px;
+    justify-content: center;
+}
+p{text-justify: right;
+margin: 4px;
+color: blue;
+}
+.lengenda{ color: blue;
+    font-style: italic
+}
+.menu img {
+    float: right;
+    height: 100px;
+    width: 150px
+}
+#video{
+    margin-left: 250px;
+}
+footer{
+    display: -webkit-inline-flex;
+   margin-left: 300px;
+}
+   button{
+       margin: 0 15px;
+   }
